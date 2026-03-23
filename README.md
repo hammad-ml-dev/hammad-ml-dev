@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**hammad-ml-dev/hammad-ml-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hammad Durrani, a AI ML Engineer
 
-Here are some ideas to get you started:
+I design and build whatever i can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if an idea pops into my head,chances are I'll build it and ship it.
+
+my main tech stack is python & sql. my favorite tools are figma,cursor,claude,replit and procreate on my machine
+
+I've got a bunch of pinned projects, but my favorite is the _________________.
+
+I've build over 150 public repos, but privately.It's probably more than 267 at this point.
+
+Fun Facts:
+
+-I don't like Tea but I like hot chocolate coffe
+-Solo Leveling is my favorite anime
+-Hobbies: Anime,GYM building things and explorer
+
+
+<
