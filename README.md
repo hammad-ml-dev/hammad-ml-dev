@@ -15,8 +15,10 @@ I've build over 150 public repos, but privately.It's probably more than 267 at t
 Fun Facts:
 
 -I don't like Tea but I like hot chocolate coffe
+
 -Solo Leveling is my favorite anime
+
 -Hobbies: Anime,GYM building things and explorer
 
 
-<
+
