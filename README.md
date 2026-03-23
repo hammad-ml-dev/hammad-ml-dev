@@ -12,7 +12,7 @@ I've got a bunch of pinned projects, but my favorite is the _________________.
 
 I've build over 150 public repos, but privately.It's probably more than 267 at this point.
 
-Fun Facts:
+## Fun Facts:
 
 -I don't like Tea but I like hot chocolate coffe
 
