@@ -1,4 +1,4 @@
-<img width="533" height="300" alt="gif" src="https://github.com/user-attachments/assets/2dfa7041-4a1b-4752-b088-822e47a4d490" />
+<img width="533" height="300" alt="gif" src="https://github.com/user-attachments/assets/a0e9d045-d8fb-4218-8a7c-a070bf1ab57d" />
 
 ## Hi there
 
@@ -50,6 +50,8 @@ Also building: [VisioSense](https://github.com/hammad-ml-dev/visiosense) (YOLOv8
 ### Dev quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-<img width="320" height="320" alt="ezgif-11e1c95f41eb37ef" src="https://github.com/user-attachments/assets/a0b3d16a-b1b6-4aab-b5b9-05b44043223b" />
+
+
+
 
 
