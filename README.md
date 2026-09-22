@@ -1,10 +1,7 @@
+https://github.com/user-attachments/assets/ec3c4eda-bc26-4c70-8e3c-e0a24e9c97f1
+Uploading From Klickpin.com- Upgrade this simple craft project roundup to make your next project easier and prettier for a polished look that still feels pe.mp4…
+
 ## Hi there
-
-
-<img width="320" height="320" alt="ezgif-11e1c95f41eb37ef" src="https://github.com/user-attachments/assets/a0b3d16a-b1b6-4aab-b5b9-05b44043223b" />
-
-
-
 
 I'm **Hammad Durrani** — Full-Stack AI / ML Engineer (HDxpert).
 
@@ -54,3 +51,6 @@ Also building: [VisioSense](https://github.com/hammad-ml-dev/visiosense) (YOLOv8
 ### Dev quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img width="320" height="320" alt="ezgif-11e1c95f41eb37ef" src="https://github.com/user-attachments/assets/a0b3d16a-b1b6-4aab-b5b9-05b44043223b" />
+
+
