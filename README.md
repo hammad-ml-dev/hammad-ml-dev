@@ -1,5 +1,10 @@
 ## Hi there
 
+
+https://github.com/user-attachments/assets/193bc772-06b2-4b45-ae84-5e538e3f59c1
+
+
+
 I'm **Hammad Durrani** — Full-Stack AI / ML Engineer (HDxpert).
 
 I design and ship whatever I can imagine. If an idea pops into my head, chances are I'll build it.
